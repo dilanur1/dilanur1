@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dilanur ✌</h1>
 <h3 align="center">I am a final year Computer Engineering stundent at Turkish-German University.</h3>
 
-- 🔭 I’m currently working on [Mobile App using Kotlin](https://github.com/dilanur1/TAU-Portal)
+- 🔭 I’m currently working on [Mobile App using Kotlin](https://github.com/dilanur1/Grocery-Shop-Mobile-Application)
 
 - 🌱 I’m currently learning **Kotlin**
 
